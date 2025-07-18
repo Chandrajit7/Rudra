@@ -70,7 +70,8 @@ cpp:
 bool eyeClosed = (sensorValue < 300); // Adjust threshold
 📸 Preview
 
-👨‍💻 Author 
+👨‍💻 Author
+ 
 Chandrajit Banerjee 
 
 Email: chandrajitbanerjee.bcrec@gmail.com
