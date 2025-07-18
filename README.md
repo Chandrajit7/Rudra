@@ -66,14 +66,14 @@ Monitor analog values using Serial Monitor.
 
 Adjust this line in code if needed:
 
-cpp
-Copy
-Edit
+cpp:
 bool eyeClosed = (sensorValue < 300); // Adjust threshold
 📸 Preview
 
-👨‍💻 Author
-Chandrajit Banerjee
-Email: chandrajitbanerjee11@gmail.com
+👨‍💻 Author 
+Chandrajit Banerjee 
+
+Email: chandrajitbanerjee.bcrec@gmail.com
+
 Phone: 6289317043 / 9163306289
 
